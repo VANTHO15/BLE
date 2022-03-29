@@ -1,0 +1,1 @@
+nrfutil pkg generate --hw-version 52 --application-version 1 --application v200.hex --sd-req 0x0101 --key-file private.key app_dfu_package.zip
